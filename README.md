@@ -1,0 +1,7 @@
+Initially, we wanted to create a comprehensive timeline that displays reboots and remakes, comparing the newer movies to their predecessors. However, after narrowing down the list by our guidelines – it had to come out in last 25 years, make $25 million and be American made – there were still 66 films.
+
+We then further split them into categories by remake and reboot, and decided to highlight four particular entries from both. Basically, we looked at best and worst box office change and highest and lowest Rotten Tomatoes scores: just to a get a wide variety of movies into this sample size. By doing this, we were able to highlight eight cases that largely represent the remake/reboot climate.
+
+Then we decided to add a timeline, which both show the stats as well as why these films got made. But instead of putting it directly on the page, which would have been an overload of information, we placed them into tabs, which were blocked off by a border. We were able to create the timelines with Knightcup, with the embed codes being easily linked to our html page.
+
+We further split the reboot and remake articles, which were around 300 words apiece, into two separate sections because they are very distinct film descriptions: with Josh doing remakes and Anthony doing reboots. But we both had similar conclusions: while there is both a downward trend, critically and financially, it still is monetarily easier to back an old horse. This means despite numbers showing otherwise, studios will continue to churn out reboots and remakes.
